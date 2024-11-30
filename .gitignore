@@ -3,3 +3,7 @@
 
 # input files
 *.txt
+
+# output files
+*.png
+*.gif
