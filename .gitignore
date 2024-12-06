@@ -7,3 +7,6 @@
 # output files
 *.png
 *.gif
+
+# logs
+*.log
